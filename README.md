@@ -1,4 +1,4 @@
-## How to make an Ethereum Token##
+## How to make an Ethereum Token
 
  - Edited by: Suwhoan Lim, GIST College, EECS
  - Contact: suwhoanlim@gist.ac.kr // ludence1029@gmail.com
